@@ -1,0 +1,5 @@
+Front and Back Pistons retracted = false
+Grabber piston retracted = true
+hatch mechanism retracted = true
+hatch deploy retracted = false
+grabber deploy retracted = true
